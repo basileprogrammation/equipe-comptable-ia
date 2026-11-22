@@ -17,7 +17,7 @@ Le comptable garde la main : chaque agent **prépare et contrôle**, et l'humain
 3. Remplis [`fiche-cabinet.md`](fiche-cabinet.md) et ajoute-le aux **fichiers du projet**.
 4. Ouvre une conversation dans le projet et décris ta tâche. L'agent te pose les bonnes questions s'il lui manque des informations.
 
-## ✅ Testé sur des dossiers fictifs
+## Testé sur des dossiers fictifs
 
 Le dossier [`exemples/`](exemples/) contient, pour chaque agent, un **faux dossier client** avec des **pièges volontaires** (données personnelles, écarts bancaires, erreurs de TVA, FEC non conforme…) et le **résultat attendu**, avec des calculs détaillés.
 
@@ -27,7 +27,7 @@ Le dossier [`exemples/`](exemples/) contient, pour chaque agent, un **faux dossi
 | 02 — Banque & TVA | 7 : écart de 90 €, double paiement, TVA sous-évaluée, autoliquidation oubliée… |
 | 03 — Révision & Synthèse | 9 : cut-off, provision, prorata d'amortissement, FEC non conforme… |
 
-👉 [Tester les agents en 5 minutes](exemples/README.md)
+[Tester les agents en 5 minutes](exemples/README.md)
 
 ## Confidentialité : les bons réflexes
 
@@ -49,11 +49,11 @@ Ces 3 agents sont une base générique. Je conçois des agents adaptés à **vos
 - **Mise en place** : installation chez vous et formation de l'équipe.
 - **Suivi** : ajustements et nouveaux agents selon vos besoins.
 
-📩 Contact : [ton email] · [lien LinkedIn] · [lien de prise de rendez-vous]
+ Contact : [konanbeyegbin@gmail.com] · [https://www.linkedin.com/in/basile-konan-3b4869119/] 
 
 ## Auteur
 
-[Ton nom] — [lien LinkedIn]
+Basile KONAN —(https://www.linkedin.com/in/basile-konan-3b4869119/)
 
 📘 Commente **AGENT** sous mon post LinkedIn pour recevoir mon ebook sur les agents IA.
 
