@@ -1,4 +1,4 @@
-# Équipe comptable IA — 3 agents Claude
+# Équipe comptable IA - 3 agents Claude
 
 Trois agents IA spécialisés pour **assister un comptable junior** en cabinet, conçus pour **protéger les données des clients**.
 
@@ -53,7 +53,7 @@ Ces 3 agents sont une base générique. Je conçois des agents adaptés à **vos
 
 ## Auteur
 
-Basile KONAN —(https://www.linkedin.com/in/basile-konan-3b4869119/)
+Basile KONAN - (https://www.linkedin.com/in/basile-konan-3b4869119/)
 
 📘 Commente **AGENT** sous mon post LinkedIn pour recevoir mon ebook sur les agents IA.
 
