@@ -23,9 +23,9 @@ Le dossier [`exemples/`](exemples/) contient, pour chaque agent, un **faux dossi
 
 | Agent | Pièges à détecter |
 |---|---|
-| 01 — Collecte & Confidentialité | 6 : données personnelles, relevé manquant, inventaire absent… |
-| 02 — Banque & TVA | 7 : écart de 90 €, double paiement, TVA sous-évaluée, autoliquidation oubliée… |
-| 03 — Révision & Synthèse | 9 : cut-off, provision, prorata d'amortissement, FEC non conforme… |
+| 01 - Collecte & Confidentialité | 6 : données personnelles, relevé manquant, inventaire absent… |
+| 02 - Banque & TVA | 7 : écart de 90 €, double paiement, TVA sous-évaluée, autoliquidation oubliée… |
+| 03 - Révision & Synthèse | 9 : cut-off, provision, prorata d'amortissement, FEC non conforme… |
 
 [Tester les agents en 5 minutes](exemples/README.md)
 
