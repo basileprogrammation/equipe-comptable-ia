@@ -1,4 +1,4 @@
-# Résultat attendu — Agent 03 (Révision & Synthèse)
+# Résultat attendu - Agent 03 (Révision & Synthèse)
 
 ## Les 9 pièges cachés
 
@@ -16,7 +16,7 @@
 
 ## Sortie attendue (exemple)
 
-### ⚠️ Confidentialité
+### Confidentialité
 Le nom du gérant n'est pas nécessaire à l'analyse : remplace-le par `[GÉRANT]`.
 
 ### 1. Écritures d'inventaire proposées
@@ -30,7 +30,7 @@ Le nom du gérant n'est pas nécessaire à l'analyse : remplace-le par `[GÉRANT
 | 6811 Dotations aux amortissements | 28 Amortissements | 12 000 € + 3 000 € = 15 000 € | Immobilisations existantes + véhicule (6 mois) |
 | 6817 Dotations aux provisions | 491 Provisions pour dépréciation | 2 500 € | [CLIENT_C-11] : 50 % de 5 000 € HT |
 
-### 2. Contrôle du FEC — ❌ Non conforme
+### 2. Contrôle du FEC - ❌ Non conforme
 | Anomalie | Détail |
 |---|---|
 | Colonnes | **16 colonnes** au lieu de 18 : `Montantdevise` et `Idevise` manquent |
