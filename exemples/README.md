@@ -4,9 +4,9 @@ Chaque agent a un **faux dossier client** (données 100 % fictives) avec des **p
 
 | Agent | Dossier test | Résultat attendu | Pièges cachés |
 |---|---|---|---|
-| 01 — Collecte & Confidentialité | [dossier-test](01-collecte/dossier-test.md) | [resultat-attendu](01-collecte/resultat-attendu.md) | 6 |
-| 02 — Banque & TVA | [dossier-test](02-banque-tva/dossier-test.md) | [resultat-attendu](02-banque-tva/resultat-attendu.md) | 7 |
-| 03 — Révision & Synthèse | [dossier-test](03-revision/dossier-test.md) | [resultat-attendu](03-revision/resultat-attendu.md) | 9 |
+| 01 - Collecte & Confidentialité | [dossier-test](01-collecte/dossier-test.md) | [resultat-attendu](01-collecte/resultat-attendu.md) | 6 |
+| 02 - Banque & TVA | [dossier-test](02-banque-tva/dossier-test.md) | [resultat-attendu](02-banque-tva/resultat-attendu.md) | 7 |
+| 03 - Révision & Synthèse | [dossier-test](03-revision/dossier-test.md) | [resultat-attendu](03-revision/resultat-attendu.md) | 9 |
 
 ## Comment tester
 
