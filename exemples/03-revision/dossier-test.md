@@ -1,4 +1,4 @@
-# Dossier test — Agent 03 (Révision & Synthèse)
+# Dossier test - Agent 03 (Révision & Synthèse)
 
 > Données fictives. Copie tout ce qui suit dans une conversation du Projet « 03 – Révision & Synthèse ».
 
