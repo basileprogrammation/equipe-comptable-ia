@@ -1,4 +1,4 @@
-# Résultat attendu — Agent 02 (Banque & TVA)
+# Résultat attendu - Agent 02 (Banque & TVA)
 
 ## Les 7 pièges cachés
 
@@ -14,7 +14,7 @@
 
 ## Sortie attendue (exemple)
 
-### ⚠️ Alerte confidentialité
+### Alerte confidentialité
 Le libellé du virement du 28/03 contient un **nom de particulier** et un **IBAN complet**. Remplace-les par `[TIERS_01]` et `[IBAN_1]`.
 
 ### État de rapprochement au 31/03/2026
@@ -46,7 +46,7 @@ Pistes : une écriture de 90 € en trop au débit du 512, ou une inversion de c
 | [FOURNISSEUR_03] | 🔴 **Payé deux fois** : solde débiteur de 960 € | Demander un avoir ou un remboursement |
 | [CLIENT_A-05] | 🟠 Reste dû : **400 €** | Relancer le client ou vérifier un éventuel escompte ou litige |
 
-### Récapitulatif TVA — mars 2026
+### Récapitulatif TVA - mars 2026
 | | Attendu | Comptabilisé | Écart |
 |---|---|---|---|
 | TVA collectée (40 000 × 20 %) | 8 000,00 € | 7 800,00 € | 🔴 − 200,00 € |
