@@ -1,4 +1,4 @@
-# Dossier test — Agent 01 (Collecte & Confidentialité)
+# Dossier test - Agent 01 (Collecte & Confidentialité)
 
 > Données fictives. Copie tout ce qui suit dans une conversation du Projet « 01 – Collecte ».
 
@@ -12,7 +12,7 @@ Peux-tu me faire l'inventaire des pièces, me lister ce qui manque, préparer le
 - Relevés bancaires du compte principal : octobre 2025, novembre 2025
 - Factures de ventes : octobre, novembre, décembre 2025
 - Factures d'achats : octobre, novembre 2025
-- Notes de frais : 4 justificatifs, dont « Reçu restaurant — invitée : Mme Sophie Martin, tél. 06 12 34 56 78 »
+- Notes de frais : 4 justificatifs, dont « Reçu restaurant - invitée : Mme Sophie Martin, tél. 06 12 34 56 78 »
 - Contrat d'emprunt bancaire (signé le 15/09/2025)
 - Courrier du SIE daté du 02/12/2025 (pas encore ouvert)
 
