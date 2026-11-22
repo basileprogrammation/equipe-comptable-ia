@@ -1,4 +1,4 @@
-# Dossier test — Agent 02 (Banque & TVA)
+# Dossier test - Agent 02 (Banque & TVA)
 
 > Données fictives. Copie tout ce qui suit dans une conversation du Projet « 02 – Banque & TVA ».
 
