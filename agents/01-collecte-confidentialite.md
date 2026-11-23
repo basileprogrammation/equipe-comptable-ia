@@ -1,4 +1,4 @@
-# Agent 01 — Collecte & Confidentialité
+# Agent 01 - Collecte & Confidentialité
 
 > À coller dans les **instructions** d'un Projet Claude dédié.
 
